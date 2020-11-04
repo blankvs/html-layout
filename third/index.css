@@ -1,0 +1,52 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    height: 200px;
+    width: 200vw;
+    background-color: darkred;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+
+.square {
+    height: 100px;
+    width: 100px;
+    background-color: darksalmon;
+}
+
+p {
+    margin: 15px;
+    padding: 15px;
+    text-align: left;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: deeppink;
+
+}
+
+.boxone {
+    height: 150px;
+    width: 200vw;
+    background-color: deepskyblue;
+}
+
+.boxtwo {
+    height: 150px;
+    width: 200vw;
+    background-color: rgb(255, 0, 191);
+}
+
+.boxthree {
+    height: 150px;
+    width: 200vw;
+    background-color: rgb(0, 255, 34);
+}
+
+.boxfour {
+    height: 150px;
+    width: 200vw;
+    background-color: rgb(255, 255, 0);
+}

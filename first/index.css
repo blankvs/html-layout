@@ -1,0 +1,30 @@
+
+.header{
+    height: 150px;
+    background: rgb(67, 67, 67);
+}
+
+.left {
+    width: 150px;
+    height: 100vh;
+    background: blueviolet;
+    float: left;
+}
+
+.right {
+    float: right;
+    width: 150px;
+    height: 100vh;
+    background: sandybrown;
+}
+
+.footer {
+    height: 100px;
+    width: 150vw;
+    background: yellow;
+}
+
+.whitebox {
+    height: 90vh;
+
+}

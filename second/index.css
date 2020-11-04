@@ -28,14 +28,15 @@
     margin: 0;
 }
 
-/*.rectangle {
+.rectangle {
     height: 200px;
     width: 300px;
     background-color: coral;
-    border: solid;
     flex: content;
+    margin-top: -200px;
+    margin-left: 100px;
 }
-*/
+
 
 .boxtwo {
     border: solid;
